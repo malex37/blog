@@ -35,7 +35,7 @@ Publishing new entries will work somewhat like this
      └──┘             └────┘                    └───────────┘    
 
 ```
-[See this in planttext](https://www.planttext.com/?text=POv12i8m44NtSugvW1V8GWgwSACKFK6nln1CCc4oiUJs6hgeuFOztkSFnIQr6WFH5NmuyXrP79yaHc-Si3AIQQEEkxv0vLKTtyJyqbWMhdcU3BI9VM6i8VnL7RAYP4dbDncbs0FwzayuFYC7QJGWpTzV7m00)
+[See this in planttext](https://www.planttext.com/?text=ROv12i8m44NtSuf_0IzGY1HqAmRh1O8PeP1aucJIukrjLxfm-z_d_Jys2sez9w8But34ZQiCE4dEiw7m2YwcRzhZ7NjfDh4kyuC7-EjqX_AhSpEOeDSOZA7IZUcd-VNwdj9_rrdMaYH4SWvLvRcjEqSZbxYT-m00)
 
 In theory this should make it so that when the blog repo gets updated the latest `.md` version gets automatically cloned into the service. If heroku lets me do that with exec in nodejs.
 
